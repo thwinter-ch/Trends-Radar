@@ -6,99 +6,137 @@
 
 ## Collection Status
 
-| Source | Report | Status |
-|--------|--------|--------|
-| [Google Cloud](google-cloud/) | 5 AI Trends for 2026 | Analyzed |
-| Deloitte | Tech Trends 2026 | Pending |
-| Gartner | Top Strategic Tech Trends | Pending |
-| Accenture | Technology Vision 2026 | Pending |
-| Accenture Song | Fjord Trends 2026 | Pending |
-| McKinsey | Technology Trends Outlook | Pending |
-| Forrester | Predictions 2026 | Pending |
-| a16z | Big Ideas 2026 | Pending |
-| Benedict Evans | Annual Presentation | Pending |
+| Source | Report | Bias | Status |
+|--------|--------|------|--------|
+| [Google Cloud](google-cloud/) | 5 AI Trends for 2026 | High | Analyzed |
+| [Deloitte](deloitte/) | Tech Trends 2026 | Medium-High | Analyzed |
+| [Gartner](gartner/) | Top 10 Strategic Tech Trends | Medium | Analyzed |
+| [Forrester](forrester/) | Predictions 2026 | Medium | Analyzed |
+| [a16z](a16z/) | Big Ideas 2026 | High | Analyzed |
+| [MIT Tech Review](mit-tech-review/) | 10 Breakthrough Technologies | Low | Analyzed |
+| [KPMG](kpmg/) | Global Tech Report 2026 | Medium-High | Analyzed |
+| [CB Insights](cb-insights/) | Tech Trends 2026 | Medium | Analyzed |
+| [IBM](ibm/) | Business & Technology Trends | High | Analyzed |
+
+**Total: 9 reports analyzed**
 
 ---
 
-## Emerging Themes
+## Consensus Themes
 
-*Updated as reports are analyzed.*
+### 1. Agentic AI Is THE Story of 2026
 
-### 1. Agentic AI Goes Mainstream
+**Who's saying it:** Everyone.
 
-**Who's saying it:** Google Cloud (heavily)
+| Source | Framing |
+|--------|---------|
+| Google Cloud | "Agents for every employee, workflow, customer, security, scale" |
+| Deloitte | "Silicon-based workforce" — preparing for human-AI hybrid |
+| Gartner | "Multiagent Systems" — modular agents collaborating |
+| a16z | "Agent-native infrastructure" — recursive, bursty workloads |
+| KPMG | 88% already embedding agents |
+| Forrester | Warning: "Agentic AI will cause a public breach" |
 
-**The claim:** 2026 is the year AI agents move from demos to production. Agents for employees, workflows, customers, security, operations.
+**Signal strength:** Very High. Universal agreement, but Forrester adds important caution.
 
-**The commercial angle:** Cloud providers want agent workloads. Agents are compute-intensive, API-heavy, storage-hungry. "Agents everywhere" = cloud revenue growth.
+### 2. AI Infrastructure Becomes CEO-Level
 
-**What's actually happening:** Agent frameworks have matured (LangChain, AutoGPT successors, vendor tools). Early enterprise deployments showing results. But "agents for everything" oversells current reliability.
+**Who's saying it:** Deloitte, Gartner, Forrester, IBM
 
-**Signal strength:** Medium-High. The direction is real; the timeline is aggressive.
+| Source | Framing |
+|--------|---------|
+| Deloitte | "Computation is a CEO-level strategic conversation" |
+| Gartner | "AI Supercomputing Platforms" — hybrid computing paradigms |
+| Forrester | "Neoclouds grab $20B" — specialized AI cloud providers |
+| Forrester | "Private AI factories at 20% adoption" |
 
-### 2. [Theme TBD]
+**Signal strength:** High. Infrastructure decisions moving from IT to boardroom.
 
-*Emerging as more reports are analyzed.*
+### 3. Security Paradox: AI as Threat AND Defense
 
-### 3. [Theme TBD]
+**Who's saying it:** Deloitte, Gartner, Forrester, a16z
 
-*Emerging as more reports are analyzed.*
+| Source | Framing |
+|--------|---------|
+| Deloitte | "AI Cybersecurity Paradox" — same tech creates and defends vulnerabilities |
+| Gartner | "Preemptive Cybersecurity" + "AI Security Platforms" |
+| Forrester | Predicts breach from agentic AI deployment |
+| a16z | AI closes cybersecurity hiring gap |
 
----
+**Signal strength:** High. Security is both opportunity and risk.
 
-## Agreement Matrix
+### 4. The ROI Reckoning
 
-*Which sources agree on which trends?*
+**Who's saying it:** Forrester, CB Insights, Deloitte
 
-| Trend | Google | Deloitte | Gartner | McKinsey | a16z |
-|-------|--------|----------|---------|----------|------|
-| Agentic AI | **Y** | ? | ? | ? | ? |
-| Grounded/RAG systems | **Y** | ? | ? | ? | ? |
-| AI for security | **Y** | ? | ? | ? | ? |
+| Source | Framing |
+|--------|---------|
+| Forrester | "25% of AI spend deferred to 2027" |
+| CB Insights | "Measuring ROI is the hard part" |
+| Deloitte | "Reality check" — scaling from pilots to production |
 
-**Y** = emphasizes, **N** = doesn't mention, **?** = not yet analyzed
+**Signal strength:** Medium-High. The contrarian view gaining traction.
+
+### 5. Sovereignty & Geopatriation
+
+**Who's saying it:** Gartner, IBM
+
+| Source | Framing |
+|--------|---------|
+| Gartner | "Geopatriation" — workloads moving to local/sovereign infrastructure |
+| IBM | "93% must factor AI sovereignty into 2026 strategy" |
+
+**Signal strength:** Medium. Underrated trend, especially for Europe/APAC.
 
 ---
 
 ## Disagreement Watch
 
-*Where do sources diverge? These are the interesting questions.*
+### Optimists vs. Skeptics on AI Delivery
 
-*TBD as more reports are analyzed.*
+| Optimists | Skeptics |
+|-----------|----------|
+| Google Cloud: "2026 businesses won't ask whether to adopt agents" | Forrester: 25% of AI spend deferred |
+| KPMG: 88% already embedding agents | CB Insights: Measuring ROI is hard |
+| a16z: System of record loses primacy | Deloitte: "Reality check" framing |
+
+### Timeline Tension
+
+| Aggressive | Conservative |
+|------------|--------------|
+| IBM: Quantum advantage by end of 2026 | Most others: Not mentioned |
+| Google: Agents mainstream now | Forrester: Enterprises still figuring out ROI |
 
 ---
 
-## The Hype Check
+## Unique Insights by Source
 
-| Trend | Claimed Timeline | Reality Check | Verdict |
-|-------|------------------|---------------|---------|
-| Agents in production | 2026 | Early adopters yes, mainstream no | Overhyped by 12-18 months |
+| Source | Distinctive Take |
+|--------|------------------|
+| **Gartner** | Geopatriation, Confidential Computing |
+| **Forrester** | Neoclouds disrupting hyperscalers |
+| **a16z** | Interactive AI video, zkVM provers |
+| **MIT TR** | Mechanistic interpretability, Sodium-ion batteries |
+| **IBM** | Quantum timeline, AI sovereignty framing |
 
 ---
 
-## Sources by Bias Level
+## Reports by Bias Level
 
 ### High Commercial Bias
-- [Google Cloud](google-cloud/) — Every trend maps to GCP products
+- Google Cloud — Every trend = GCP product
+- a16z — Every idea = portfolio thesis
+- IBM — Quantum + sovereignty = IBM positioning
 
-### Medium Commercial Bias
-*None yet analyzed*
+### Medium Bias
+- Deloitte — Transformation consulting
+- Gartner — Research subscriptions
+- Forrester — Research subscriptions
+- KPMG — Big Four positioning
+- CB Insights — Platform subscriptions
 
-### Low Commercial Bias
-*None yet analyzed*
-
----
-
-## Best Reports For...
-
-### Technical Practitioners
-*TBD — waiting for more reports*
-
-### Executive Summary
-*TBD*
-
-### Original Research/Data
-*TBD*
+### Low Bias
+- MIT Technology Review — Editorial independence
 
 ---
 
@@ -111,4 +149,4 @@
 ---
 
 *Last updated: January 21, 2026*
-*Sources analyzed: 1 of 9+*
+*Reports analyzed: 9*
