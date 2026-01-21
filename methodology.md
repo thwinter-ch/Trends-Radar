@@ -8,18 +8,49 @@ Every trend report serves an agenda. This isn't inherently bad — it's structur
 
 ---
 
+## The Prompts
+
+### Interpretation Prompt (Single Report)
+
+Use this when analyzing one report:
+
+> "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions? What is the author selling (products, services, subscriptions, reputation)? Identify unique insights versus consensus views. Note cross-references to other reports in our collection."
+
+### Synthesis Prompt (Cross-Report)
+
+Use this when updating the collection README:
+
+> "Compare all reports in this collection. Where do 3+ sources agree? Where do they disagree? What do independent voices (no product to sell) say that vendors won't? What's the meta-pattern — how should readers interpret vendor vs consultant vs independent reports differently?"
+
+---
+
 ## The Analysis Framework
 
 ### Step 1: Identify the Publisher Type
 
 | Publisher Type | Typical Agenda | Bias Pattern |
 |----------------|----------------|--------------|
-| **Big Consultancy** (McKinsey, BCG, Deloitte) | Sell transformation projects | Trends require consultants to implement |
-| **Tech Giant** (Google, Microsoft, AWS) | Sell platform/products | Trends require their infrastructure |
+| **Tech Vendor** (Google, Microsoft, AWS, IBM) | Sell platform/products | Trends require their infrastructure |
+| **Big Consultancy** (McKinsey, BCG, Deloitte, KPMG) | Sell transformation projects | Trends require consultants to implement |
 | **Design Consultancy** (Accenture Song, Frog) | Sell design/innovation services | Trends require human-centered design |
-| **Analyst Firm** (Gartner, Forrester) | Sell research subscriptions | Trends create FOMO requiring more research |
+| **Analyst Firm** (Gartner, Forrester, CB Insights) | Sell research subscriptions | Trends create FOMO requiring more research |
 | **VC/Investor** (a16z, Sequoia) | Support portfolio positioning | Trends validate their investment thesis |
-| **Institution** (WEF, MIT) | Maintain relevance, convene stakeholders | Trends require global coordination |
+| **Institution** (WEF, MIT Tech Review) | Maintain relevance, editorial independence | Generally lower bias |
+| **Independent Commentator** (Meeker, Galloway, Evans) | Audience growth, reputation, speaking fees | Different bias — see below |
+
+### Independent Authors (Special Handling)
+
+Authors like Mary Meeker, Scott Galloway, or Benedict Evans are NOT selling products. But they still have incentives:
+
+| Incentive | How It Might Bias |
+|-----------|-------------------|
+| **Reputation** | Incentive to be right, but also to be quotable |
+| **Media attention** | Provocative > accurate sometimes |
+| **Speaking fees** | Bold predictions get invitations |
+| **VC deal flow** | (For investors) Good analysis attracts founders |
+| **Contrarian brand** | Some build identity on disagreeing with consensus |
+
+**Key difference:** These biases are toward *attention* and *accuracy*, not toward *selling a specific product*. That makes them more trustworthy for "what might actually happen" vs vendors who are trustworthy for "what products are coming."
 
 ### Step 2: Ask "What Are They Selling?"
 
@@ -91,40 +122,66 @@ Document what's genuinely useful alongside the bias analysis.
 Each source interpretation follows this structure:
 
 ```markdown
-# [Publisher]: [Report Title]
+# [Publisher]: [Report Title] — Interpretation
 
-**Report:** [Full title]
-**Publisher:** [Organization]
-**URL:** [Link]
-**Date Reviewed:** [Date]
+> **Source:** [Full URL to original report]
+> **PDF:** `[filename].pdf` or "N/A (web only)" or "[link] (gated)"
+> **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
----
+## Essence of the Report
 
-## The Trends
-[List each trend with their claim and what they're selling]
+[START HERE. Summarize what the report actually says — fairly, accurately, without snark.
+This section should be useful even to someone who likes the report.
+3-5 paragraphs covering core thesis and key findings.]
 
-## Commercial Bias Analysis
-[Why this report exists, who benefits]
+## Key Findings
 
-## What's Genuinely Useful
-[Extract the signal]
+### [Finding 1]
+[Detail]
 
-## What's Missing
-[What they don't say]
+### [Finding 2]
+[Detail]
 
-## Key Quotes
-[Notable quotes with translation]
+## Who Benefits?
 
-## Rating
-| Aspect | Score | Notes |
-|--------|-------|-------|
-| Commercial Bias | Low/Med/High | |
-| Technical Depth | X/5 | |
-| Actionable Insights | X/5 | |
-| Novelty | X/5 | |
+**Author type:** [Vendor | Consultancy | Analyst Firm | VC | Independent | Institution]
 
-**Bottom Line:** [One paragraph summary]
+**What they're selling:** [Products, services, subscriptions, or "nothing directly"]
+
+**How predictions align with interests:**
+- [Specific example 1]
+- [Specific example 2]
+
+**For independent authors, note actual incentives:**
+- [Reputation, media attention, speaking fees, etc.]
+
+## Bias Scorecard
+
+| Dimension | Rating | Notes |
+|-----------|--------|-------|
+| **Commercial Bias** | LOW / MEDIUM / HIGH | [Why] |
+| **Technical Depth** | X/5 | [Why] |
+| **Actionable Insights** | X/5 | [Why] |
+| **Novel Ideas** | X/5 | [Why] |
+
+## Cross-Reference
+
+- **Aligns with:** [Other reports that agree]
+- **Conflicts with:** [Other reports that disagree]
+- **Unique angles:** [What this report covers that others don't]
+
+## Bottom Line
+
+[One paragraph: Read it for X, skip it for Y, filter for Z]
 ```
+
+### Template Rules
+
+1. **Essence comes first** — Be fair before being critical
+2. **Source URL is required** — Reader should be able to verify
+3. **PDF link if available** — Note if gated or web-only
+4. **Prompt is shown** — Transparency about how we analyzed
+5. **Cross-references required** — Connect to other reports in collection
 
 ---
 
