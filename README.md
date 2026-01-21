@@ -2,55 +2,52 @@
 
 Tech trend reports decoded. Every January, everyone publishes predictions. Most are product pitches. We collect them, detect the bias, extract the signal, and synthesize what actually matters.
 
-## What This Is
+## Built By
 
-An opinionated collection and analysis of trend reports from consultancies, tech giants, analysts, and institutions. We read the reports so you don't have to — and tell you what they're really selling.
+- **Research:** [Perplexity](https://perplexity.ai) for discovery and fact-finding
+- **Analysis:** [Claude](https://claude.ai) for interpretation and synthesis
+- **Curation:** A human who's tired of reading vendor pitches disguised as thought leadership
 
 ## Current Scans
 
-| Collection | Status | Integrated Synthesis |
-|------------|--------|----------------------|
-| [Tech Trends 2026](tech-2026/) | In Progress | [Summary](tech-2026/README.md) |
-| [WEF Davos 2026](wef-2026/) | Pending | [Summary](wef-2026/README.md) |
+| Collection | Status | Synthesis |
+|------------|--------|-----------|
+| [Tech Trends 2026](tech-2026/) | 9 reports | [Integrated view](tech-2026/README.md) |
+| [WEF Davos 2026](wef-2026/) | Day 1 | [Daily summaries](wef-2026/README.md) |
 
 ## How We Work
 
 1. **Collect** — Sweep known publishers, use Perplexity to find what we missed
-2. **Analyze** — Read each report with explicit bias detection
-3. **Document** — Per-source interpretation with commercial angle
-4. **Synthesize** — Cross-report integration, agreement/disagreement patterns
+2. **Download** — Get the original PDFs/reports
+3. **Analyze** — Read each report with explicit bias detection
+4. **Interpret** — Per-source analysis with commercial angle
+5. **Synthesize** — Cross-report integration, find consensus and disagreement
 
-Every report gets the same treatment:
-- What are they claiming?
-- What are they selling?
-- What's genuinely useful?
+### File Structure
+
+Each source folder contains:
+```
+[source]/
+├── README.md           # Original report title, official URL, metadata
+├── [original-name].pdf # The actual report (when available)
+└── interpretation.md   # Our analysis with bias detection
+```
 
 ## Documentation
 
 - [JOURNEY.md](JOURNEY.md) — How we built this system
 - [methodology.md](methodology.md) — Our analysis framework
 
-## Notion & NotebookLM
+## Notion Database
 
-For browsable indexes and AI-powered synthesis:
-
-| Collection | Notion Database | NotebookLM |
-|------------|-----------------|------------|
-| Tech 2026 | [Research Reports](https://www.notion.so/2ef643de298844f1a50e7a9515185506) | [Notebook](https://notebooklm.google.com/notebook/9b7b5a66-807e-4ba9-92e4-0e8536eddeb9) |
-| WEF 2026 | [Research Reports](https://www.notion.so/2ef643de298844f1a50e7a9515185506) | [Notebook](https://notebooklm.google.com/notebook/f5414141-3b84-4f8e-b222-2f5f4ae698ba) |
+Browsable index of all collected reports:
+**[Research Reports](https://www.notion.so/2ef643de298844f1a50e7a9515185506)**
 
 ## Philosophy
 
 > "When a consultancy tells you what the future looks like, ask who's paying for the vision."
 
 Most trend reports exist to position products, create consulting urgency, or establish thought leadership. That doesn't make them useless — the underlying research is often solid. But the framing serves commercial interests. We read them critically and note the bias explicitly.
-
-## Contributing
-
-Found a report we missed? Open an issue or PR with:
-- Report title and URL
-- Publisher
-- Your initial read on the commercial angle
 
 ---
 

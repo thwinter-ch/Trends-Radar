@@ -143,7 +143,7 @@
 ## Resources
 
 - **Notion:** [Research Reports Database](https://www.notion.so/2ef643de298844f1a50e7a9515185506) (filter: Collection = Tech Trends, Year = 2026)
-- **NotebookLM:** [Tech Trends 2026 Notebook](https://notebooklm.google.com/notebook/9b7b5a66-807e-4ba9-92e4-0e8536eddeb9)
+- **NotebookLM:** [Tech Trends 2026 Notebook](https://notebooklm.google.com/notebook/9b7b5a66-807e-4ba9-92e4-0e8536eddeb9) (not public — Google sharing limitations)
 - **Methodology:** [How we analyze reports](../methodology.md)
 
 ---
