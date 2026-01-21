@@ -8,13 +8,14 @@
 | **Publisher** | Forrester |
 | **URL** | https://www.forrester.com/predictions/technology-2026/ |
 | **Press Release** | https://www.forrester.com/press-newsroom/forrester-tech-security-2026-predictions/ |
-| **PDF** | *(gated - requires Forrester subscription)* |
+| **PDF** | `2026-forrester-predictions.pdf` *(gated - requires subscription)* |
 | **Date Published** | October 2025 |
 
 ## Files
 
 - `README.md` — This file (metadata)
-- `interpretation.md` — Our analysis
+- `2026-forrester-predictions.pdf` — Original report *(gated)*
+- `2026-forrester-predictions-interpretation.md` — Our analysis
 
 ## Quick Summary
 

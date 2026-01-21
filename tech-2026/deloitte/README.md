@@ -8,14 +8,14 @@
 | **Publisher** | Deloitte |
 | **URL** | https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html |
 | **Press Release** | https://www.deloitte.com/us/en/about/press-room/deloitte-tech-trends-2026.html |
-| **PDF** | `tech-trends-2026.pdf` *(to be added)* |
+| **PDF** | `2026-deloitte-tech-trends.pdf` |
 | **Date Published** | January 2026 |
 
 ## Files
 
 - `README.md` — This file (metadata)
-- `tech-trends-2026.pdf` — Original report *(to be added)*
-- `interpretation.md` — Our analysis
+- `2026-deloitte-tech-trends.pdf` — Original report *(needs download)*
+- `2026-deloitte-tech-trends-interpretation.md` — Our analysis
 
 ## Quick Summary
 

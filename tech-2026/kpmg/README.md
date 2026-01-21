@@ -7,14 +7,14 @@
 | **Title** | Global Tech Report 2026 |
 | **Publisher** | KPMG |
 | **URL** | https://kpmg.com/xx/en/our-insights/ai-and-technology/global-tech-report.html |
-| **PDF** | `global-tech-report-2026.pdf` *(to be added)* |
+| **PDF** | `2026-kpmg-global-tech-report.pdf` |
 | **Date Published** | January 2026 |
 
 ## Files
 
 - `README.md` — This file (metadata)
-- `global-tech-report-2026.pdf` — Original report *(to be added)*
-- `interpretation.md` — Our analysis
+- `2026-kpmg-global-tech-report.pdf` — Original report *(needs download)*
+- `2026-kpmg-global-tech-report-interpretation.md` — Our analysis
 
 ## Quick Summary
 

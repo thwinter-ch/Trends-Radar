@@ -8,13 +8,14 @@
 | **Publisher** | Gartner |
 | **URL** | https://www.gartner.com/en/articles/top-technology-trends-2026 |
 | **Press Release** | https://www.gartner.com/en/newsroom/press-releases/2025-10-20-gartner-identifies-the-top-strategic-technology-trends-for-2026 |
-| **PDF** | *(gated - requires Gartner subscription)* |
+| **PDF** | `2026-gartner-top-10-tech-trends.pdf` *(gated - requires subscription)* |
 | **Date Published** | October 2025 |
 
 ## Files
 
 - `README.md` — This file (metadata)
-- `interpretation.md` — Our analysis
+- `2026-gartner-top-10-tech-trends.pdf` — Original report *(gated)*
+- `2026-gartner-top-10-tech-trends-interpretation.md` — Our analysis
 
 ## Quick Summary
 

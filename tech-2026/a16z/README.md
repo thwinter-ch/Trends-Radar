@@ -9,13 +9,13 @@
 | **Part 1** | https://a16z.com/newsletter/big-ideas-2026-part-1/ |
 | **Part 2** | https://a16z.com/newsletter/big-ideas-2026-part-2/ |
 | **Part 3** | https://a16z.com/newsletter/big-ideas-2026-part-3/ |
-| **PDF** | N/A (web-only) |
+| **PDF** | N/A (web-only, 3 parts) |
 | **Date Published** | December 2025 |
 
 ## Files
 
 - `README.md` — This file (metadata)
-- `interpretation.md` — Our analysis
+- `2026-a16z-big-ideas-interpretation.md` — Our analysis
 
 ## Quick Summary
 

@@ -8,14 +8,14 @@
 | **Publisher** | Google Cloud |
 | **URL** | https://cloud.google.com/transform/five-ai-trends-for-2026-agents-take-center-stage |
 | **Blog Post** | https://blog.google/products/google-cloud/ai-business-trends-report-2026/ |
-| **PDF** | `5-ai-trends-for-2026-agents-take-center-stage.pdf` |
+| **PDF** | `2026-google-cloud-5-ai-trends.pdf` |
 | **Date Published** | January 2026 |
 
 ## Files
 
 - `README.md` — This file (metadata)
-- `5-ai-trends-for-2026-agents-take-center-stage.pdf` — Original report *(to be added)*
-- `interpretation.md` — Our analysis
+- `2026-google-cloud-5-ai-trends.pdf` — Original report ✓
+- `2026-google-cloud-5-ai-trends-interpretation.md` — Our analysis
 
 ## Quick Summary
 

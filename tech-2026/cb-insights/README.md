@@ -7,13 +7,14 @@
 | **Title** | Tech Trends 2026: 14 Emerging Trends |
 | **Publisher** | CB Insights |
 | **URL** | https://www.cbinsights.com/research/report/top-tech-trends-2026/ |
-| **PDF** | *(gated - requires CB Insights subscription)* |
+| **PDF** | `2026-cb-insights-tech-trends.pdf` *(gated - requires subscription)* |
 | **Date Published** | January 2026 |
 
 ## Files
 
 - `README.md` — This file (metadata)
-- `interpretation.md` — Our analysis
+- `2026-cb-insights-tech-trends.pdf` — Original report *(gated)*
+- `2026-cb-insights-tech-trends-interpretation.md` — Our analysis
 
 ## Quick Summary
 
