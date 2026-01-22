@@ -14,13 +14,13 @@
 
 ## Daily Summaries
 
-| Day | Date | Summary | Status |
-|-----|------|---------|--------|
-| 1 | Jan 20 | [Day 1 Summary](daily/day-1-jan-20.md) | Published |
-| 2 | Jan 21 | Day 2 Summary | Pending |
-| 3 | Jan 22 | Day 3 Summary | Pending |
-| 4 | Jan 23 | Day 4 Summary | Pending |
-| 5 | Jan 24 | Day 5 Summary | Pending |
+| Day | Date | Summary | PDF | Status |
+|-----|------|---------|-----|--------|
+| 1 | Jan 20 | [Day 1 Summary](daily/2026%20WEF%20Day%201%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%201%20Summary%20by%20Perplexity.pdf) | Published |
+| 2 | Jan 21 | [Day 2 Summary](daily/2026%20WEF%20Day%202%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%202%20Summary%20by%20Perplexity.pdf) | Published |
+| 3 | Jan 22 | Day 3 Summary | — | Pending |
+| 4 | Jan 23 | Day 4 Summary | — | Pending |
+| 5 | Jan 24 | Day 5 Summary | — | Pending |
 
 ---
 
@@ -44,14 +44,36 @@
 
 ---
 
+## Day 2 Highlights (Jan 21)
+
+### Geopolitics
+- **Trump's Davos address** — backed off military force on Greenland, still seeking "deal"; antagonistic toward Europe
+- **"Board of Peace"** — Trump's quasi-UN rival; countries feel pressured to join or face tariffs
+- **Lagarde walkout** — ECB chief left dinner during provocative Lutnick speech
+- **China positioning** — He Lifeng defended globalization, contrasting with US unpredictability
+
+### AI & Tech
+- **Meta Superintelligence Labs** — Bosworth revealed new AI unit produced "very good" first models
+- **Saudi AI infrastructure** — $1.2B financing framework for AI data centers (250MW capacity)
+- **Gates-OpenAI "Horizon1000"** — $50M to bring AI to 1,000 African health clinics by 2028
+- **Amodei** (Anthropic): Continued warnings on AI chip exports
+
+### Gossip
+- Trump dominated mood — "collective sigh of relief" when he ruled out force
+- "NO KING" carved in snow above Davos; protesters burned US flags in Zurich
+- David Beckham appeared to discuss social media's impact on youth
+- Jamie Dimon warned credit card rate cap would be "economic disaster"
+
+---
+
 ## Structure
 
 ```
 wef-2026/
 ├── README.md           # This file - integrated view
 ├── daily/              # Daily Perplexity summaries
-│   ├── day-1-jan-20.md
-│   ├── day-2-jan-21.md
+│   ├── 2026 WEF Day 1 Summary by Perplexity.md / .pdf
+│   ├── 2026 WEF Day 2 Summary by Perplexity.md / .pdf
 │   └── ...
 └── reports/            # Official WEF reports (if collected)
 ```
@@ -66,4 +88,4 @@ wef-2026/
 
 ---
 
-*Last updated: January 21, 2026*
+*Last updated: January 22, 2026*
