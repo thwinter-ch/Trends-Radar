@@ -8,6 +8,7 @@
 
 | Source | Report | Bias | Source Link | Our Take |
 |--------|--------|------|-------------|----------|
+| [Accenture](accenture/) | Macro Foresight 2026 | MEDIUM-HIGH | [source](https://www.accenture.com/us-en/insights/strategy/macro-foresight) | Macro + tech lens, strong on China competition |
 | [Google Cloud](google-cloud/) | 5 AI Trends for 2026 | HIGH | [source](https://cloud.google.com/transform/five-ai-trends-for-2026-agents-take-center-stage) | Product pitch with useful agent taxonomy |
 | [Deloitte](deloitte/) | Tech Trends 2026 | MEDIUM-HIGH | [source](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html) | Heavy consulting framing but substantive on workforce |
 | [Gartner](gartner/) | Top 10 Strategic Tech Trends | MEDIUM | [source](https://www.gartner.com/en/articles/top-technology-trends-2026) | Structured taxonomy, unique on geopatriation |
@@ -22,7 +23,7 @@
 | [Mary Meeker](mary-meeker/) | AI Trends 2025 | LOW-MEDIUM | [source](https://www.bondcap.com/) | Data-driven, first report in 5 years |
 | [Prof Galloway](prof-galloway/) | 2026 Predictions | LOW | [source](https://www.profgalloway.com/2026-predictions/) | Contrarian, surfaces what vendors won't say |
 
-**Total: 13 reports analyzed**
+**Total: 14 reports analyzed**
 
 ---
 
@@ -79,12 +80,13 @@
 
 ### 4. China Competition Is Underestimated
 
-**Who's saying it:** Meeker, Galloway (everyone else ignores it)
+**Who's saying it:** Meeker, Galloway, Accenture (most others ignore it)
 
 | Source | Their Take | Why It Matters |
 |--------|-----------|---------------|
 | [Meeker](https://www.bondcap.com/) | DeepSeek: 0% → 21% LLM share in months | Data, not opinion |
 | [Galloway](https://www.profgalloway.com/2026-predictions/) | "China will dump cheap AI to crush margins" | Margin threat, not capability threat |
+| [Accenture](https://www.accenture.com/us-en/insights/strategy/macro-foresight) | "Export-led growth suppressing prices, taking market share" | Macro + competitive framing |
 
 **Signal strength:** Medium but rising. US vendor reports pretend China doesn't exist.
 
@@ -149,6 +151,7 @@ What each report brings that others don't:
 | **Galloway** | Power grid constraints, prediction markets | [source](https://www.profgalloway.com/2026-predictions/) |
 | **Meeker** | "Computational labor unit" concept | [source](https://www.bondcap.com/) |
 | **Microsoft** | Repository intelligence (GitHub) | [source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/) |
+| **Accenture** | China competitive pressure, macro lens | [source](https://www.accenture.com/us-en/insights/strategy/macro-foresight) |
 
 ---
 
@@ -163,6 +166,7 @@ What each report brings that others don't:
 
 ### MEDIUM Bias
 *Useful but filter for consulting/subscription revenue*
+- **Accenture** — Strategy consulting, macro perspective
 - **Deloitte** — Transformation consulting
 - **Gartner** — Research subscriptions
 - **Forrester** — Research subscriptions (but most contrarian)
@@ -201,5 +205,5 @@ The independent voices (MIT TR, Meeker, Galloway) are the ones who mention risks
 
 ---
 
-*Last updated: January 21, 2026*
-*Reports analyzed: 13*
+*Last updated: January 22, 2026*
+*Reports analyzed: 14*
