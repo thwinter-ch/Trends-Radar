@@ -126,6 +126,7 @@ Each source interpretation follows this structure:
 
 > **Source:** [Full URL to original report]
 > **PDF:** `[filename].pdf` or "N/A (web only)" or "[link] (gated)"
+> **Published:** [Month Year or Full Date]
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report
@@ -180,8 +181,9 @@ This section should be useful even to someone who likes the report.
 1. **Essence comes first** — Be fair before being critical
 2. **Source URL is required** — Reader should be able to verify
 3. **PDF link if available** — Note if gated or web-only
-4. **Prompt is shown** — Transparency about how we analyzed
-5. **Cross-references required** — Connect to other reports in collection
+4. **Publication date is required** — Context matters: early reports vs late reports
+5. **Prompt is shown** — Transparency about how we analyzed
+6. **Cross-references required** — Connect to other reports in collection
 
 ---
 

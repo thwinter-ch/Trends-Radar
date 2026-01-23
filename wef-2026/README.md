@@ -82,8 +82,6 @@ wef-2026/
 
 ## Resources
 
-- **Notion:** [Research Reports Database](https://www.notion.so/2ef643de298844f1a50e7a9515185506) (filter: Collection = WEF Davos)
-- **NotebookLM:** [WEF Davos 2026 Notebook](https://notebooklm.google.com/notebook/f5414141-3b84-4f8e-b222-2f5f4ae698ba)
 - **WEF Official:** https://www.weforum.org/events/world-economic-forum-annual-meeting-2026
 
 ---

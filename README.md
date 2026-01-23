@@ -38,11 +38,6 @@ Each source folder contains:
 - [JOURNEY.md](JOURNEY.md) — How we built this system
 - [methodology.md](methodology.md) — Our analysis framework
 
-## Notion Database
-
-Browsable index of all collected reports:
-**[Research Reports](https://www.notion.so/2ef643de298844f1a50e7a9515185506)**
-
 ## Philosophy
 
 > "When a consultancy tells you what the future looks like, ask who's paying for the vision."

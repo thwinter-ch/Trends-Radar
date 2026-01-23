@@ -12,9 +12,8 @@ Operational guide for adding and managing trend reports. For methodology (prompt
 2. **Download PDF** (if available): `[year]-[publisher]-[short-name].pdf`
 3. **Create README.md** with metadata (see template below)
 4. **Create interpretation** using [methodology.md](methodology.md) template
-5. **Add to Notion** (Trend Radar database)
-6. **Update synthesis** (`tech-[year]/README.md`)
-7. **Commit to GitHub**
+5. **Update synthesis** (`tech-[year]/README.md`)
+6. **Commit to GitHub**
 
 ---
 
@@ -81,32 +80,11 @@ tech-2026/
 
 ---
 
-## Notion Integration
-
-**Database:** Trend Radar
-**ID:** `2ef643de-2988-44f1-a50e-7a9515185506`
-
-### Required Fields
-
-| Field | Format |
-|-------|--------|
-| **Name** | `[Publisher]: [Short Title]` |
-| **Collection** | Tech Trends \| WEF Davos \| AI State of Play \| Other |
-| **Year** | 2026 \| 2025 \| 2024 |
-| **Publisher** | Select from list |
-| **Type** | Report \| Article \| Video \| Podcast |
-| **URL** | Link to original |
-| **Summary** | 2-3 sentences |
-| **Interpretation** | One-liner + bias rating |
-| **NotebookLM** | Not Added \| Added \| Pending |
-
----
-
 ## Commands
 
 | Command | Action |
 |---------|--------|
-| `Add [URL] to tech trends` | Create folder, README, interpretation, Notion entry |
+| `Add [URL] to tech trends` | Create folder, README, interpretation |
 | `Update synthesis` | Regenerate `tech-[year]/README.md` with all reports |
 | `Search for [topic] reports` | Find additional sources via web search |
 | `Show collection status` | List all reports with completion status |
@@ -123,7 +101,6 @@ Before committing a new report:
 - [ ] Interpretation starts with essence (fair summary first)
 - [ ] Source URL and PDF link included in interpretation
 - [ ] Cross-references to other reports included
-- [ ] Notion entry created with all fields
 - [ ] Synthesis README updated with new report
 - [ ] Committed to GitHub
 
@@ -132,5 +109,3 @@ Before committing a new report:
 ## Resources
 
 - **Methodology:** [methodology.md](methodology.md) — Prompts, bias framework, interpretation template
-- **Notion:** [Trend Radar Database](https://www.notion.so/2ef643de298844f1a50e7a9515185506)
-- **NotebookLM:** [Tech Trends 2026](https://notebooklm.google.com/notebook/9b7b5a66-807e-4ba9-92e4-0e8536eddeb9) (not public)

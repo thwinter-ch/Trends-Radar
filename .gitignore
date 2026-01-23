@@ -2,6 +2,18 @@
 # Uncomment to exclude PDFs from repo:
 # *.pdf
 
+# Paid content - DO NOT COMMIT
+tech-2026/VC+/*.pdf
+tech-2026/VC+/*.csv
+tech-2026/VC+/*OCR*.txt
+tech-2026/VC+/test_ocr*.py
+tech-2026/VC+/ocr_pdf*.py
+tech-2026/VC+/analyze_csv.py
+tech-2026/ark-invest/*.pdf
+tech-2026/ark-invest/*-extracted.txt
+tech-2026/ark-invest/extract_pdf.py
+tech-2026/ark-invest/ark-sample-*.txt
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -16,3 +28,5 @@ Thumbs.db
 # Temp files
 *.tmp
 *.temp
+.claude/
+NOTEBOOKLM-UPLOAD-MANIFEST.md

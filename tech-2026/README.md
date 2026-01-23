@@ -22,8 +22,10 @@
 | [Capgemini](capgemini/) | Top Tech Trends 2026 | MEDIUM-HIGH | [source](https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/) | European perspective, sovereignty angle |
 | [Mary Meeker](mary-meeker/) | AI Trends 2025 | LOW-MEDIUM | [source](https://www.bondcap.com/) | Data-driven, first report in 5 years |
 | [Prof Galloway](prof-galloway/) | 2026 Predictions | LOW | [source](https://www.profgalloway.com/2026-predictions/) | Contrarian, surfaces what vendors won't say |
+| [ARK Invest](ark-invest/) | Big Ideas 2026 | MEDIUM-HIGH | [source](https://ark-invest.com/big-ideas-2026) | Maximalist bull case, convergence thesis |
+| [Visual Capitalist Plus](VC+/) | Global Forecast 2026 | MEDIUM | [source](https://www.visualcapitalist.com/vc-plus/) | Meta-aggregator: 2,251 predictions from 938 sources |
 
-**Total: 14 reports analyzed**
+**Total: 16 reports analyzed**
 
 ---
 
@@ -116,6 +118,7 @@
 | KPMG: "88% already embedding agents" | CB Insights: "Measuring ROI is hard" |
 | a16z: "System of record loses primacy" | Galloway: "AI stocks will correct" |
 | Microsoft: "AI agents as digital coworkers" | Deloitte: "Reality check" framing |
+| ARK: "7.3% GDP growth by 2030" (2.4x IMF forecast) | IMF/consensus: 3.1% |
 
 **Who to believe?** Follow the incentives. Bulls sell AI products or AI investments. Bears have research subscriptions or media audiences. Neither is unbiased.
 
@@ -152,6 +155,8 @@ What each report brings that others don't:
 | **Meeker** | "Computational labor unit" concept | [source](https://www.bondcap.com/) |
 | **Microsoft** | Repository intelligence (GitHub) | [source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/) |
 | **Accenture** | China competitive pressure, macro lens | [source](https://www.accenture.com/us-en/insights/strategy/macro-foresight) |
+| **ARK Invest** | Convergence framework, space-based AI compute | [source](https://ark-invest.com/big-ideas-2026) |
+| **Visual Capitalist Plus** | Meta-aggregation of 938 sources, IEA renewable slowdown | [source](https://www.visualcapitalist.com/vc-plus/) |
 
 ---
 
@@ -161,6 +166,7 @@ What each report brings that others don't:
 *Read for product positioning, not truth*
 - **Google Cloud** — Every trend = GCP product
 - **a16z** — Every idea = portfolio thesis
+- **ARK Invest** — Every forecast = ETF holdings justification (Bitcoin, Tesla, crypto)
 - **IBM** — Quantum + sovereignty = IBM positioning
 - **Microsoft** — Copilot roadmap disguised as trends
 
@@ -190,20 +196,20 @@ Every consulting report says: "Navigating this complexity requires [strategic gu
 
 Every VC report says: "This trend creates opportunity in [companies we've invested in]."
 
+Every aggregator report says: "Here's what [prestigious sources] believe" — curation as editorial stance.
+
 The independent voices (MIT TR, Meeker, Galloway) are the ones who mention risks, failures, and things that might NOT happen.
 
-**Read vendors for product direction. Read consultants for frameworks. Read independents for reality checks.**
+**Read vendors for product direction. Read consultants for frameworks. Read independents for reality checks. Read aggregators for consensus tracking.**
 
 ---
 
 ## Resources
 
-- **Notion:** [Research Reports Database](https://www.notion.so/2ef643de298844f1a50e7a9515185506)
-- **NotebookLM:** [Tech Trends 2026 Notebook](https://notebooklm.google.com/notebook/9b7b5a66-807e-4ba9-92e4-0e8536eddeb9) (not public — Google sharing limitations)
 - **Methodology:** [How we analyze reports](../methodology.md)
 - **Cookbook:** [How to add new reports](../CLAUDE.md)
 
 ---
 
 *Last updated: January 22, 2026*
-*Reports analyzed: 14*
+*Reports analyzed: 16*
