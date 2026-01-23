@@ -1,4 +1,6 @@
-# WEF Annual Meeting 2026 – Davos – January 22, 2026 Summary
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
+# WEF Davos 2026: Day 3 Summary (January 22)
 
 ## 1. Geopolitical Dimensions
 
