@@ -11,7 +11,7 @@ Operational guide for adding and managing trend reports. For methodology (prompt
 1. **Create folder:** `tech-[year]/[publisher-slug]/`
 2. **Download PDF** (if available): `[year]-[publisher]-[short-name].pdf`
 3. **Create README.md** with metadata (see template below)
-4. **Create interpretation** using [methodology.md](methodology.md) template
+4. **Create interpretation** using [METHODOLOGY.md](METHODOLOGY.md) template
 5. **Update synthesis** (`tech-[year]/README.md`)
 6. **Commit to GitHub**
 
@@ -104,7 +104,7 @@ Before committing a new report:
 
 - [ ] README.md has correct metadata and links
 - [ ] PDF downloaded with correct filename (or noted as unavailable)
-- [ ] Interpretation follows [methodology.md](methodology.md) template
+- [ ] Interpretation follows [METHODOLOGY.md](METHODOLOGY.md) template
 - [ ] Interpretation starts with essence (fair summary first)
 - [ ] Source URL and PDF link included in interpretation
 - [ ] Cross-references to other reports included
@@ -115,4 +115,4 @@ Before committing a new report:
 
 ## Resources
 
-- **Methodology:** [methodology.md](methodology.md) — Prompts, bias framework, interpretation template
+- **Methodology:** [METHODOLOGY.md](METHODOLOGY.md) — Prompts, bias framework, interpretation template
