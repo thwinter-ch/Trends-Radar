@@ -2,7 +2,7 @@
 
 > **Source:** https://www.accenture.com/us-en/insights/strategy/macro-foresight
 > **PDF:** `2026-accenture-top-10-trends.pdf`
-> **Published:** Late 2025 (2026 Outlook)
+> **Published:** December 2025
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report

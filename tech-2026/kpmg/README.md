@@ -13,7 +13,7 @@
 ## Files
 
 - `README.md` — This file (metadata)
-- `2026-kpmg-global-tech-report.pdf` — Original report *(needs download)*
+- `2026-kpmg-global-tech-report.pdf` — Original report
 - `2026-kpmg-global-tech-report-interpretation.md` — Our analysis
 
 ## Quick Summary

@@ -13,7 +13,7 @@
 ## Files
 
 - `README.md` — This file (metadata)
-- `2026-ibm-business-technology-trends.pdf` — Original report *(needs download)*
+- `2026-ibm-business-technology-trends.pdf` — Original report
 - `2026-ibm-business-technology-trends-interpretation.md` — Our analysis
 
 ## Quick Summary

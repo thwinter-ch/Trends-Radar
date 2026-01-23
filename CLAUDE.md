@@ -30,6 +30,13 @@ Examples:
 - `2026-gartner-top-10-tech-trends-interpretation.md`
 - `2025-mary-meeker-ai-trends.pdf`
 
+### Special Cases
+
+**Mary Meeker 2025 in tech-2026/:**
+- Mary Meeker's "AI Trends 2025" (May 2025) is intentionally included in the tech-2026 collection
+- Rationale: She hasn't released a 2026 report, and her 2025 analysis remains pivotal for understanding AI trends
+- Keep this report where it is; do not move to a separate year folder
+
 ---
 
 ## Folder Structure

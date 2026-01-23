@@ -1,6 +1,7 @@
 # Trends Radar
 
-Tech trend reports decoded. Every January, everyone publishes predictions. Most are product pitches. We collect them, detect the bias, extract the signal, and synthesize what actually matters.
+Tech trend reports decoded. Around the change of years, opinion leaders, consultants, and tech companies publishes predictions. Some of those are sales pitches pitches. We (Perplexity, Claude, and I) collect them, detect the bias, extract the signal, and synthesize what actually matters.
+As a bonus, we're on the same process as the World Economic Forum that happens this week in Davos. 
 
 ## Built By
 
@@ -12,8 +13,8 @@ Tech trend reports decoded. Every January, everyone publishes predictions. Most 
 
 | Collection | Status | Synthesis |
 |------------|--------|-----------|
-| [Tech Trends 2026](tech-2026/) | 9 reports | [Integrated view](tech-2026/README.md) |
-| [WEF Davos 2026](wef-2026/) | Day 1 | [Daily summaries](wef-2026/README.md) |
+| [Tech Trends 2026](tech-2026/) | 16 reports | [Integrated view](tech-2026/README.md) |
+| [WEF Davos 2026](wef-2026/) | Days 1-3 | [Daily summaries](wef-2026/README.md) |
 
 ## How We Work
 
@@ -27,10 +28,10 @@ Tech trend reports decoded. Every January, everyone publishes predictions. Most 
 
 Each source folder contains:
 ```
-[source]/
-├── README.md           # Original report title, official URL, metadata
-├── [original-name].pdf # The actual report (when available)
-└── interpretation.md   # Our analysis with bias detection
+[publisher]/
+├── README.md                                      # Metadata (title, URL, PDF status)
+├── [year]-[publisher]-[report-slug].pdf          # Original report (when available)
+└── [year]-[publisher]-[report-slug]-interpretation.md  # Our analysis with bias detection
 ```
 
 ## Documentation

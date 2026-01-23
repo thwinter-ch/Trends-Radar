@@ -91,8 +91,6 @@ The "agents at scale" trend acknowledges that running many agents creates new in
 - **Conflicts with:** Forrester (Google is bullish; Forrester warns of breaches, ROI delays)
 - **Unique angles:** "Grounded agents" concept, security agents as defense
 
-## The Vendor Report Test
+## Bottom Line
 
-Ask: "Would this report exist if Google had nothing to sell?"
-
-Answer: No. The report exists to drive GCP adoption. That's fine — just know what you're reading.
+The agent framework is genuinely useful for enterprise planning. The five categories (employee, workflow, customer, security, scale) provide a practical taxonomy. But every trend maps directly to a Google Cloud product. This is sales enablement dressed as thought leadership. Use the framework, question the conclusions, and evaluate alternative implementations.

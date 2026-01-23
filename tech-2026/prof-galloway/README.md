@@ -8,7 +8,7 @@
 | **Publisher** | No Mercy / No Malice (Scott Galloway) |
 | **URL** | https://www.profgalloway.com/2026-predictions/ |
 | **PDF** | N/A (blog post) |
-| **Date Published** | December 19, 2025 |
+| **Date Published** | December 2025 |
 
 ## Files
 

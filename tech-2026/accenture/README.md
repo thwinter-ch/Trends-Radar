@@ -8,7 +8,7 @@
 | **Publisher** | Accenture Strategy |
 | **URL** | https://www.accenture.com/us-en/insights/strategy/macro-foresight |
 | **PDF** | `2026-accenture-top-10-trends.pdf` |
-| **Date Published** | Late 2025 (2026 Outlook) |
+| **Date Published** | December 2025 |
 
 ## Files
 

@@ -7,16 +7,17 @@
 | **Title** | Big Ideas 2026 |
 | **Publisher** | ARK Investment Management LLC |
 | **URL** | https://ark-invest.com/big-ideas-2026 |
-| **PDF** | `2026-ark-invest-big-ideas.pdf` (11 MB, 111 pages) |
+| **PDF** | Available at https://ark-invest.com/big-ideas-2026 (registration required) |
 | **Date Published** | January 2026 |
 
 ## Files
 
 - `README.md` — This file (metadata)
-- `2026-ark-invest-big-ideas.pdf` — Original report (111 pages)
 - `2026-ark-invest-big-ideas-interpretation.md` — Our analysis
-- `2026-ark-invest-big-ideas-extracted.txt` — PDF text extraction (internal use)
-- `extract_pdf.py` — Python script used for extraction (internal use)
+- `2026-ark-invest-big-ideas.pdf` — **GITIGNORED** (paid content, 11 MB, 111 pages)
+- `2026-ark-invest-big-ideas-extracted.txt` — **GITIGNORED** (local OCR extraction)
+- `extract_pdf.py` — **GITIGNORED** (local utility script)
+- `ark-sample-*.txt` — **GITIGNORED** (OCR test samples)
 
 ## Quick Summary
 

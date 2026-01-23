@@ -8,7 +8,7 @@
 | **Publisher** | MIT Technology Review |
 | **URL** | https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/ |
 | **PDF** | `2026-mit-10-breakthrough-technologies.pdf` *(gated - requires subscription)* |
-| **Date Published** | January 12, 2026 |
+| **Date Published** | January 2026 |
 
 ## Files
 

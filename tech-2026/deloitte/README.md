@@ -14,7 +14,7 @@
 ## Files
 
 - `README.md` — This file (metadata)
-- `2026-deloitte-tech-trends.pdf` — Original report *(needs download)*
+- `2026-deloitte-tech-trends.pdf` — Original report
 - `2026-deloitte-tech-trends-interpretation.md` — Our analysis
 
 ## Quick Summary

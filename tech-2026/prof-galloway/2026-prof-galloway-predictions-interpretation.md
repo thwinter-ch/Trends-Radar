@@ -2,7 +2,7 @@
 
 > **Source:** https://www.profgalloway.com/2026-predictions/
 > **PDF:** N/A (blog post)
-> **Published:** December 19, 2025
+> **Published:** December 2025
 > **Interpretation Prompt:** "Extract key predictions, assess commercial bias, identify unique insights vs. consensus views, and note what benefits the author gains from these specific predictions."
 
 ## Essence of the Report
