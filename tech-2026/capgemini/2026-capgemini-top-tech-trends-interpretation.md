@@ -2,6 +2,7 @@
 
 > **Source:** https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/
 > **PDF:** N/A (web report — full PDF requires registration)
+> **Published:** January 12, 2026
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report

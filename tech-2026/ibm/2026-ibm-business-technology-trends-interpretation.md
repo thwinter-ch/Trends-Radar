@@ -2,6 +2,7 @@
 
 > **Source:** https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026
 > **PDF:** `2026-ibm-business-technology-trends.pdf`
+> **Published:** January 2026
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report

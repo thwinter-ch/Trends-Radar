@@ -2,6 +2,7 @@
 
 > **Source:** https://a16z.com/newsletter/big-ideas-2026-part-1/ (Parts 1-3)
 > **PDF:** N/A (web articles)
+> **Published:** December 2025
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report

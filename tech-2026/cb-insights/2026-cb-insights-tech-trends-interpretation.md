@@ -2,6 +2,7 @@
 
 > **Source:** https://www.cbinsights.com/research/report/top-tech-trends-2026/
 > **PDF:** `2026-cb-insights-tech-trends.pdf`
+> **Published:** January 2026
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report

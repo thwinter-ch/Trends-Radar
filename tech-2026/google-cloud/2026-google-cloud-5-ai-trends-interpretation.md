@@ -2,6 +2,7 @@
 
 > **Source:** https://cloud.google.com/transform/five-ai-trends-for-2026-agents-take-center-stage
 > **PDF:** `2026-google-cloud-5-ai-trends.pdf`
+> **Published:** January 2026
 > **Interpretation Prompt:** "Extract key predictions, assess commercial bias, identify unique insights vs. consensus views, and note what benefits the author gains from these specific predictions."
 
 ## Essence of the Report

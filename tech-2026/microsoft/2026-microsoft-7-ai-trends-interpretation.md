@@ -2,6 +2,7 @@
 
 > **Source:** https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/
 > **PDF:** N/A (web article)
+> **Published:** December 2025
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report

@@ -2,6 +2,7 @@
 
 > **Source:** https://www.forrester.com/predictions/technology-2026/
 > **PDF:** `2026-forrester-predictions.pdf`
+> **Published:** October 2025
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report

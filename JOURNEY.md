@@ -53,16 +53,6 @@ trends-radar/
 - Per-source folders contain interpretation + original artifact
 - Top-level README.md is the integrated synthesis
 
-### Multi-Layer Storage
-
-| Layer | Purpose |
-|-------|---------|
-| **GitHub** | Source of truth for analysis, version history |
-| **Notion** | Browsable index, metadata, quick lookup |
-| **NotebookLM** | AI-powered synthesis across reports |
-
-GitHub is for depth. Notion is for discovery. NotebookLM is for AI-assisted synthesis.
-
 ### The Interpretation Template
 
 Every source gets the same treatment:

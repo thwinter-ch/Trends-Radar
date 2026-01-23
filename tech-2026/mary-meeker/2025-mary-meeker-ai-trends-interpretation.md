@@ -2,6 +2,7 @@
 
 > **Source:** https://www.bondcap.com/
 > **PDF:** Available at Bond Capital website (340 slides)
+> **Published:** May 2025
 > **Interpretation Prompt:** "Extract key predictions, assess commercial bias, identify unique insights vs. consensus views, and note what benefits the author gains from these specific predictions."
 
 ## Essence of the Report

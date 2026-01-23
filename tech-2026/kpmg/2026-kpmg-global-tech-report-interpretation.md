@@ -2,6 +2,7 @@
 
 > **Source:** https://kpmg.com/xx/en/our-insights/ai-and-technology/global-tech-report.html
 > **PDF:** `2026-kpmg-global-tech-report.pdf`
+> **Published:** January 2026
 > **Prompt:** "Summarize the essence of this report — what it actually says, fairly and accurately. Then assess: Who benefits if readers believe these predictions?"
 
 ## Essence of the Report
