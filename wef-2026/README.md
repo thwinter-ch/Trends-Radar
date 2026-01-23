@@ -18,7 +18,7 @@
 |-----|------|---------|-----|--------|
 | 1 | Jan 20 | [Day 1 Summary](daily/2026%20WEF%20Day%201%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%201%20Summary%20by%20Perplexity.pdf) | Published |
 | 2 | Jan 21 | [Day 2 Summary](daily/2026%20WEF%20Day%202%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%202%20Summary%20by%20Perplexity.pdf) | Published |
-| 3 | Jan 22 | Day 3 Summary | — | Pending |
+| 3 | Jan 22 | [Day 3 Summary](daily/2026%20WEF%20Day%203%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%203%20Summary%20by%20Perplexity.pdf) | Published |
 | 4 | Jan 23 | Day 4 Summary | — | Pending |
 | 5 | Jan 24 | Day 5 Summary | — | Pending |
 
@@ -66,6 +66,29 @@
 
 ---
 
+## Day 3 Highlights (Jan 22)
+
+### Geopolitics
+- **Trump-Canada rift** — withdrew Canada from "Board of Peace" after PM Carney's critical remarks; Carney fired back: "Canada doesn't live because of the United States. Canada thrives because we are Canadian"
+- **Ukraine peace talks breakthrough** — US Envoy Witkoff: negotiations down to "one issue"; trilateral talks (Ukraine-Russia-US) begin Jan 24 in UAE
+- **EU-India trade deal** — von der Leyen calling it "mother of all deals" (2B people, 25% of global GDP); traveling to India post-Davos to finalize
+- **European defense pivot** — new EU-India security partnership covering maritime, counterterrorism, cyber
+
+### AI & Tech
+- **AGI timeline narrowing** — Amodei (Anthropic): AGI within "a few years" (2026-27), warns half of entry-level professional jobs could disappear within decade
+- **Software engineering automating** — Anthropic devs no longer writing code, just editing AI output
+- **Optimism vs. reality** — Hassabis (DeepMind): expects new jobs but warns "5-10 years is not a lot of time"
+- **Musk's prediction** — AI smarter than any human by end of 2026, "no later than next year"
+- **Nadella's warning** — AI boom risks becoming "bubble" without real-world productivity gains
+
+### Gossip
+- Two fires at Davos — one at Congress Centre (Trump present, no injuries), another at fondue hut
+- California Gov Newsom blocked from Fortune panel by White House pressure
+- 600 protesters marched; "NO KINGS" lit with 450 torches on mountain
+- Milei's restrained speech: "Machiavelli is dead," Argentina joins Board of Peace
+
+---
+
 ## Structure
 
 ```
@@ -74,6 +97,7 @@ wef-2026/
 ├── daily/              # Daily Perplexity summaries
 │   ├── 2026 WEF Day 1 Summary by Perplexity.md / .pdf
 │   ├── 2026 WEF Day 2 Summary by Perplexity.md / .pdf
+│   ├── 2026 WEF Day 3 Summary by Perplexity.md / .pdf
 │   └── ...
 └── reports/            # Official WEF reports (if collected)
 ```
@@ -86,4 +110,4 @@ wef-2026/
 
 ---
 
-*Last updated: January 22, 2026*
+*Last updated: January 23, 2026*
