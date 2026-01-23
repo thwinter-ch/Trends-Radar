@@ -33,7 +33,7 @@ The independent voices (MIT TR, Meeker, Galloway) are the ones who mention risks
 
 ---
 
-## Collection Status
+## Reports in Focus
 
 | Report | Our Analysis | Bias | Original Source | Note |
 |--------|-------------|------|-----------------|------|
@@ -55,6 +55,21 @@ The independent voices (MIT TR, Meeker, Galloway) are the ones who mention risks
 | Visual Capitalist Plus | [our take](VC+/) | MEDIUM | [source](https://www.visualcapitalist.com/vc-plus/) | Meta-aggregator: 2,251 predictions from 938 sources |
 
 **Total: 16 reports analyzed**
+
+---
+
+## Why GitHub for Business Intelligence?
+
+Despite the parade of AI agents, visual builders, and no-code dashboards, strategic intelligence keeps collapsing back to the same foundation: **structured data and version-controlled text**.
+
+This repository treats trend analysis as what it actually is—a living corpus that evolves, gets challenged, and compounds over time. GitHub's branching, diffing, and collaborative model isn't a developer quirk; it's the natural infrastructure for how serious business intelligence works:
+
+- **Transparency over theatre:** Open methodology and visible reasoning beat proprietary synthesis engines
+- **Forkable strategy:** Anyone can clone the corpus, challenge the analysis, or adapt the framework
+- **Version as reality:** Watching how interpretations change reveals more than any single snapshot
+- **Code-native clarity:** Markdown + git = zero vendor lock-in, maximum portability, permanent accessibility
+
+Trend reports shape billion-dollar technology bets. The interpretation layer matters as much as the data. If agentic coding means anything useful, it means we can finally maintain this kind of corpus *properly*—not in slides that rot, but in formats that survive contact with reality.
 
 ---
 
