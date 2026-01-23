@@ -235,4 +235,28 @@ We try to be aware of these. Call us out if you see them affecting conclusions.
 
 ---
 
+## Ongoing Discovery
+
+### Weekly Report Search
+
+To keep the collection current, we run a **weekly Perplexity search** for new tech trend reports. This ensures we capture late releases and updates from existing publishers.
+
+**Schedule:** Every Monday (or first working day of the week)
+
+**Search prompt:** See `perplexity-search-prompt.md` for the reusable search query that covers:
+- Major tech vendors (Google, Microsoft, AWS, IBM, etc.)
+- Big consultancies (Deloitte, McKinsey, BCG, Accenture, etc.)
+- Analyst firms (Gartner, Forrester, IDC, CB Insights)
+- VC firms (a16z, Sequoia, Bessemer)
+- Independent voices (Mary Meeker, Scott Galloway, Benedict Evans)
+- Academic institutions (MIT TR, Stanford HAI, etc.)
+
+**Process:**
+1. Run the Perplexity search with current year
+2. Compare results against existing collection
+3. Add new reports following the [Operations Guide](CLAUDE.md)
+4. Update the integrated synthesis README
+
+---
+
 *This methodology evolves. Suggestions welcome.*
