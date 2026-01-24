@@ -35,26 +35,32 @@ The independent voices (MIT TR, Meeker, Galloway) are the ones who mention risks
 
 ## Reports in Focus
 
-| Report | Our Analysis | Bias | Original Source | Note |
-|--------|-------------|------|-----------------|------|
-| Accenture | [our take](accenture/) | MEDIUM-HIGH | [source](https://www.accenture.com/us-en/insights/strategy/macro-foresight) | Macro + tech lens, China competition |
-| Google Cloud | [our take](google-cloud/) | HIGH | [source](https://cloud.google.com/transform/five-ai-trends-for-2026-agents-take-center-stage) | Product pitch, useful agent taxonomy |
-| Deloitte | [our take](deloitte/) | MEDIUM-HIGH | [source](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html) | Consulting framing, substantive on workforce |
-| Gartner | [our take](gartner/) | MEDIUM | [source](https://www.gartner.com/en/articles/top-technology-trends-2026) | Structured taxonomy, unique on geopatriation |
-| Forrester | [our take](forrester/) | MEDIUM | [source](https://www.forrester.com/predictions/technology-2026/) | Most contrarian, ROI skeptics |
-| a16z | [our take](a16z/) | HIGH | [source](https://a16z.com/newsletter/big-ideas-2026-part-1/) | Portfolio thesis dressed as trends |
-| MIT Tech Review | [our take](mit-tech-review/) | LOW | [source](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/) | Most editorially independent |
-| KPMG | [our take](kpmg/) | MEDIUM-HIGH | [source](https://kpmg.com/xx/en/our-insights/ai-and-technology/global-tech-report.html) | Survey data, aggressive workforce claims |
-| CB Insights | [our take](cb-insights/) | MEDIUM | [source](https://www.cbinsights.com/research/report/top-tech-trends-2026/) | Data-driven, startup lens |
-| IBM | [our take](ibm/) | HIGH | [source](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026) | Quantum hype + sovereignty positioning |
-| Microsoft | [our take](microsoft/) | HIGH | [source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/) | Copilot roadmap as thought leadership |
-| Capgemini | [our take](capgemini/) | MEDIUM-HIGH | [source](https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/) | European perspective, sovereignty angle |
-| Mary Meeker | [our take](mary-meeker/) | LOW-MEDIUM | [source](https://www.bondcap.com/) | Data-driven, first report in 5 years |
-| Prof Galloway | [our take](prof-galloway/) | LOW | [source](https://www.profgalloway.com/2026-predictions/) | Contrarian, surfaces vendor blind spots |
-| ARK Invest | [our take](ark-invest/) | MEDIUM-HIGH | [source](https://ark-invest.com/big-ideas-2026) | Maximalist bull case, convergence thesis |
-| Visual Capitalist Plus | [our take](VC+/) | MEDIUM | [source](https://www.visualcapitalist.com/vc-plus/) | Meta-aggregator: 2,251 predictions from 938 sources |
+| Publisher | Report Title | Our Analysis | Bias | Original Source | Note |
+|-----------|-------------|--------------|------|-----------------|------|
+| Accenture | 2026 Macro Foresight | [our take](accenture/) | MEDIUM-HIGH | [source](https://www.accenture.com/us-en/insights/strategy/macro-foresight) | Macro + tech lens, China competition |
+| Google Cloud | AI Agent Trends 2026 | [our take](google-cloud/) | HIGH | [source](https://cloud.google.com/transform/five-ai-trends-for-2026-agents-take-center-stage) | Product pitch, useful agent taxonomy |
+| Deloitte | Tech Trends 2026 | [our take](deloitte/) | MEDIUM-HIGH | [source](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html) | Consulting framing, substantive on workforce |
+| Gartner | Top 10 Strategic Technology Trends for 2026 | [our take](gartner/) | MEDIUM | [source](https://www.gartner.com/en/articles/top-technology-trends-2026) | Structured taxonomy, unique on geopatriation |
+| Forrester | Predictions 2026 | [our take](forrester/) | MEDIUM | [source](https://www.forrester.com/predictions/technology-2026/) | Most contrarian, ROI skeptics |
+| a16z | Big Ideas 2026 | [our take](a16z/) | HIGH | [source](https://a16z.com/newsletter/big-ideas-2026-part-1/) | Portfolio thesis dressed as trends |
+| MIT Tech Review | 10 Breakthrough Technologies 2026 | [our take](mit-tech-review/) | LOW | [source](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/) | Most editorially independent |
+| KPMG | Global Tech Report 2026 | [our take](kpmg/) | MEDIUM-HIGH | [source](https://kpmg.com/xx/en/our-insights/ai-and-technology/global-tech-report.html) | Survey data, aggressive workforce claims |
+| CB Insights | Top Tech Trends 2026 | [our take](cb-insights/) | MEDIUM | [source](https://www.cbinsights.com/research/report/top-tech-trends-2026/) | Data-driven, startup lens |
+| IBM | Business Trends 2026 | [our take](ibm/) | HIGH | [source](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026) | Quantum hype + sovereignty positioning |
+| Microsoft | What's Next in AI: 7 Trends for 2026 | [our take](microsoft/) | HIGH | [source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/) | Copilot roadmap as thought leadership |
+| Capgemini | Top Tech Trends of 2026 | [our take](capgemini/) | MEDIUM-HIGH | [source](https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/) | European perspective, sovereignty angle |
+| Mary Meeker | AI Trends 2025 | [our take](mary-meeker/) | LOW-MEDIUM | [source](https://www.bondcap.com/) | Data-driven, first report in 5 years |
+| Prof Galloway | 2026 Predictions | [our take](prof-galloway/) | LOW | [source](https://www.profgalloway.com/2026-predictions/) | Contrarian, surfaces vendor blind spots |
+| ARK Invest | Big Ideas 2026 | [our take](ark-invest/) | MEDIUM-HIGH | [source](https://ark-invest.com/big-ideas-2026) | Maximalist bull case, convergence thesis |
+| Visual Capitalist Plus | 2026 Predictions Meta-Aggregation | [our take](VC+/) | MEDIUM | [source](https://www.visualcapitalist.com/vc-plus/) | Meta-aggregator: 2,251 predictions from 938 sources |
+| PwC | Annual Outlook 2026: Teetering Resilience | [our take](pwc-annual-outlook/) | MEDIUM-HIGH | [source](https://www.pwc.com/us/en/about-us/newsroom/press-releases/annual-outlook-2026.html) | 4.2% electricity price inflation from AI data centers |
+| PwC | 2026 Global CEO Survey | [our take](pwc-ceo-survey/) | MEDIUM-HIGH | [source](https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-global-ceo-survey.html) | Only 12% of CEOs see both cost and revenue AI benefits |
+| EY | CEO Outlook Survey Q4 2025 | [our take](ey-ceo-survey/) | MEDIUM-HIGH | [source](https://www.ey.com/en_gl/newsroom/2026/01/ceos-double-down-on-ai-transformation-and-m-and-a-to-drive-growth-amid-uncertainty-in-the-global-economy) | 2026 as "turning point" from pilots to scaling |
+| Bessemer | 2026 Market Outlook | [our take](bessemer/) | MEDIUM-HIGH | [source](https://www.bessemertrust.com/strength-amid-distractions-earnings-growth-and-economic-stability-to-drive-markets-in-2026) | $350B+ AI infrastructure capex in 2025 |
+| Salesforce | AI Agents Predictions 2026 | [our take](salesforce/) | HIGH | [source](https://www.salesforce.com/uk/news/stories/the-future-of-ai-agents-top-predictions-trends-to-watch-in-2026/) | 282% adoption surge, data trust = #1 bottleneck |
+| BCG | AI Radar 2026 | [our take](bcg-ai-radar/) | MEDIUM-HIGH | [source](https://www.bcg.com/publications/2026/as-ai-investments-surge-ceos-take-the-lead) | 72% of CEOs now main AI decision-makers (2x increase) |
 
-**Total: 16 reports analyzed**
+**Total: 22 reports analyzed**
 
 ---
 
