@@ -1,42 +1,43 @@
-# Prompt: Tech Trends Launch Post
+# Prompt: Tech Trends 2026 LinkedIn Post
 
-## Context
+## Context Given
 
-We've analyzed 16 major tech trend reports for 2026 (Google Cloud, Deloitte, Gartner, Forrester, a16z, MIT TR, Mary Meeker, Prof Galloway, etc.) and synthesized them into a single repository with:
+- Tech Trends 2026 collection completed (22 reports, 16 publishers)
+- Bias scoring framework applied to all reports
+- Theme: why GitHub for business intelligence / Second Brain
+- Built with Claude Code + Perplexity MCP
+- Target audience: business/tech leaders doing AI knowledge work
 
-- Bias detection for each report
-- Cross-report pattern analysis
-- Consensus vs. disagreement tracking
-- Open methodology on GitHub
+## Key Inputs
 
-## Objective
+- Full synthesis: `tech-2026/README.md`
+- Brand narrative from `~/.claude/skills/_shared/brand-narrative.md`
+- LinkedIn skill formatting rules
+- Previous WEF post as tone reference
 
-Create a LinkedIn post that:
-- Announces the Trends Radar repository
-- Positions it as antidote to vendor hype
-- Shows we've done the work (16 reports, open methodology)
-- Drives to the GitHub repo
-- Professional tone but sharp/contrarian edge
+## Iterations
 
-## Target Audience
+1. **Draft 1** — Meta-pattern lead (quote too long for hook)
+2. **Draft 2** — Numbers lead (22/16/Zero — selected)
+3. **Draft 3** — Contrarian hook ("biggest lie" — too aggressive)
 
-- Tech executives making 2026 strategy decisions
-- VCs/founders tracking trend consensus
-- Anyone tired of reading vendor pitches disguised as thought leadership
+## User Feedback
 
-## Key Points to Hit
+- "Zero objectivity" too aggressive → changed to "Everyone has an agenda"
+- Wanted more on WHY GitHub specifically:
+  - Built with Claude Code + Perplexity MCP
+  - Repo = natural home for agentic workflows
+  - Web chat loses context; repo IS the context
+- Wanted emojis (tasteful, as structure markers)
 
-1. The problem: Trend reports are sales pitches
-2. What we built: Open analysis with explicit bias detection
-3. The value: See consensus, disagreement, and who's selling what
-4. The format: GitHub because version-controlled intelligence > rotting slides
+## Final Adjustments
 
-## Tone
-
-Direct, credible, slightly contrarian. No hype. No emojis unless they add signal.
+- Softened hook
+- Added Claude Code + MCP credibility line
+- Expanded GitHub rationale with 5 concrete benefits
+- "repo IS the context" as central insight
+- Link in comments (LinkedIn algorithm)
 
 ---
 
-## Prompt for Claude/Perplexity
-
-[Prompt will be added when we generate the post]
+*Generated with Claude Code using linkedin-post skill*
