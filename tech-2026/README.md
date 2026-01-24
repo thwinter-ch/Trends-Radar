@@ -1,5 +1,9 @@
 # Tech Trends 2026 — Integrated Synthesis
 
+**Tech trend reports decoded.**
+
+Around the change of years, opinion leaders, consultants, and tech companies publish predictions. Some are genuine insights. Many are sales pitches. We (Perplexity, Claude, and I) collect them, detect the bias, extract the signal, and synthesize what actually matters.
+
 *Cross-report analysis of technology trend predictions for 2026. Cutting through vendor marketing to find the actual signal.*
 
 ---
