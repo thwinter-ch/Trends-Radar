@@ -14,7 +14,7 @@ As a bonus, we're on the same process as the World Economic Forum that happens t
 | Collection | Status | Synthesis |
 |------------|--------|-----------|
 | [Tech Trends 2026](tech-2026/) | 22 reports | [Integrated view](tech-2026/README.md) |
-| [WEF Davos 2026](wef-2026/) | Days 1-4 | [Daily summaries](wef-2026/README.md) |
+| [WEF Davos 2026](wef-2026/) | Complete | [Synthesis + Daily](wef-2026/README.md) |
 
 ## How We Work
 
