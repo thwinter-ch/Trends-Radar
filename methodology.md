@@ -8,6 +8,29 @@ Every trend report serves an agenda. This isn't inherently bad — it's structur
 
 ---
 
+## The Ingestion Loop
+
+Every report goes through the same process:
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│  DISCOVER   │ ──► │   ANALYZE   │ ──► │ SYNTHESIZE  │
+│             │     │             │     │             │
+│ Perplexity  │     │ Consistent  │     │ Update the  │
+│ deep search │     │ template +  │     │ collection  │
+│ for new     │     │ bias score  │     │ README with │
+│ sources     │     │             │     │ patterns    │
+└─────────────┘     └─────────────┘     └─────────────┘
+```
+
+**Discover:** Weekly search for new reports (see [Ongoing Discovery](#ongoing-discovery))
+**Analyze:** Apply the interpretation template to each report
+**Synthesize:** Update the collection README with cross-report patterns
+
+The rest of this document details each step.
+
+---
+
 ## The Prompts
 
 ### Interpretation Prompt (Single Report)
