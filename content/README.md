@@ -11,7 +11,7 @@ This directory is intentionally not linked from the root README—it's here for 
 | # | Title | Status | Target Date | Dependencies |
 |---|-------|--------|-------------|--------------|
 | 1 | [Tech Trends Launch](01-tech-trends-launch/) | Ready | Jan 25 | None |
-| 2 | [WEF Synthesis](02-wef-synthesis/) | Ready | Jan 24 | WEF data collection ✓ |
+| 2 | [WEF Synthesis](02-wef-synthesis/) | ✅ Posted | Jan 24 | WEF data collection ✓ |
 | 3 | [Methodology & Journey](03-methodology-journey/) | Ready | Jan 26 | Post #1 published |
 | 4 | [Integrated Gamma Deck](04-gamma-deck/) | Ready | Jan 27+ | Posts #1-3 |
 | 5 | TBD | - | - | - |
@@ -21,12 +21,12 @@ This directory is intentionally not linked from the root README—it's here for 
 
 ## Action Plan (What To Do)
 
-### Jan 24 — Post #2: WEF Synthesis
-1. Open `02-wef-synthesis/post.md`
-2. Copy text between the triple backticks under "## Post"
-3. Paste into LinkedIn
-4. Immediately post first comment (copy from "## First Comment")
-5. Optional: attach screenshot of GitHub README
+### ✅ Jan 24 — Post #2: WEF Synthesis — POSTED
+~~1. Open `02-wef-synthesis/post.md`~~
+~~2. Copy text between the triple backticks under "## Post"~~
+~~3. Paste into LinkedIn~~
+~~4. Immediately post first comment (copy from "## First Comment")~~
+~~5. Optional: attach screenshot of GitHub README~~
 
 ### Jan 25 — Post #1: Tech Trends Launch
 1. Open `01-tech-trends-launch/post.md`
