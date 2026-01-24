@@ -19,7 +19,7 @@
 | 1 | Jan 20 | [Day 1 Summary](daily/2026%20WEF%20Day%201%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%201%20Summary%20by%20Perplexity.pdf) | Published |
 | 2 | Jan 21 | [Day 2 Summary](daily/2026%20WEF%20Day%202%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%202%20Summary%20by%20Perplexity.pdf) | Published |
 | 3 | Jan 22 | [Day 3 Summary](daily/2026%20WEF%20Day%203%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%203%20Summary%20by%20Perplexity.pdf) | Published |
-| 4 | Jan 23 | Day 4 Summary | — | Pending |
+| 4 | Jan 23 | [Day 4 Summary](daily/2026%20WEF%20Day%204%20Summary%20by%20Perplexity.md) | [PDF](daily/2026%20WEF%20Day%204%20Summary%20by%20Perplexity.pdf) | Published |
 | 5 | Jan 24 | Day 5 Summary | — | Pending |
 
 ---
@@ -89,6 +89,31 @@
 
 ---
 
+## Day 4 Highlights (Jan 23 — Final Day)
+
+### Geopolitics
+- **Trump departed, transatlantic rupture deepened** — WEF President Brende's closing: "real dialogue requires patience, commitment and creativity"; absence "deepens division"
+- **Ukraine peace talks scheduled** — Zelenskyy: trilateral talks (US-Ukraine-Russia) begin Jan 23 in Abu Dhabi; documents "nearly ready" but "faith is not enough"
+- **EU-India trade deal imminent** — von der Leyen: creating 2B-person market as response to protectionism
+- **Energy security alarm** — IEA's Birol: "never seen" risks multiplying so rapidly; energy security should be "elevated to national security"
+- **Multilateralism crisis** — WTO: "most severe shock in 80 years"; IMF warns of developing country debt crisis
+
+### AI & Tech
+- **"Jobs, jobs, jobs" mantra** — Business leaders confident AI will create more jobs than it destroys
+- **IBM's ROI milestone** — Rob Thomas: AI matured to where companies can "genuinely begin to automate" and see returns
+- **Gates on AI transition** — "All solvable problems," suggests taxing AI activities to support workers
+- **Infrastructure scaling crisis** — Huang's "core infrastructure" framing; must more than double energy production for AI
+- **Difficult second phase** — Accenture's Sweet: moving beyond pilots requires "new strategies, capabilities, organizational designs"
+
+### Gossip
+- **Trump's chaotic exit** — Air Force One electrical issue forced switch to backup 757; departure at 5:37 p.m. Thursday
+- **850 private jets** — Zurich Airport activated contingency plans; 216 aircraft on ramp at once
+- **Musk surprise appearance** — Thursday 4:30 p.m. address generated buzz into Friday
+- **Scammers target USA House** — Fake VIP tickets sold to attendees seeking access to Trump officials
+- **Humanitarian critique** — IRC's Miliband: WEF "beautiful but not enough"; aid sector shrunk 50% in 2024
+
+---
+
 ## Structure
 
 ```
@@ -110,4 +135,4 @@ wef-2026/
 
 ---
 
-*Last updated: January 23, 2026*
+*Last updated: January 24, 2026*
