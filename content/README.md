@@ -12,7 +12,7 @@ This directory is intentionally not linked from the root README—it's here for 
 |---|-------|--------|-------------|--------------|
 | 1 | [Tech Trends Launch](01-tech-trends-launch/) | Ready | Jan 25 | None |
 | 2 | [WEF Synthesis](02-wef-synthesis/) | Ready | Jan 24 | WEF data collection ✓ |
-| 3 | [Methodology & Journey](03-methodology-journey/) | Queued | 2-3 days after #1 | Post #1 published |
+| 3 | [Methodology & Journey](03-methodology-journey/) | Ready | Jan 26 | Post #1 published |
 | 4 | [Integrated Gamma Deck](04-gamma-deck/) | Queued | After #2 | Posts #1 + #2 |
 | 5 | TBD | - | - | - |
 | 6 | TBD | - | - | - |
